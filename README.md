@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is the cdc dataset that I have been analyzing for the past few weeks. 
 
 ## Prototypes
 
