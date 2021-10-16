@@ -2,13 +2,13 @@
 
 ## Data
 
-The data I propose to visualize for my project is the cdc dataset that I have been analyzing for the past few weeks. 
+The data I propose to visualize for my project is the cdc dataset that I have been analyzing for the past few weeks. I believe that there are interesting attributes in the dataset as well as many data points (10,000), which could lend to lots of potential for various visualizations.
 
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/agevsweight.png)](https://vizhub.com/ridhimasaxena/ce31146b95a5497d96ec57e0670ff732)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
