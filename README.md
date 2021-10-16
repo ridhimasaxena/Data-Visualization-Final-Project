@@ -19,16 +19,19 @@ Another visualization is a scatterplot showing whether a person exercises or not
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) Which variable out of all the variables in the dataset is the strongest indicator of general health?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Which variable out of all the variables in the dataset is the strongest indicator of general health?
+ * What are the thresholds to categorize health as very good vs. excellent etc.?
+ * How does the general health compare for males vs. females?
+ * How does the smoking compare for males vs. females?
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+[![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/Cdc_Sketch.png)]
+[![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/SmokingStatusGender.png)]
+
+The sketches above show the distribution of the dataset and the classifications of their general health status. The data is visualized in a pie chart. The next sketch compares general health between males and females in a bar chart. This satisfies the third question of how general health compares for males vs. females. Similarly the third sketch outlines smoking status between males and females. 
+
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I am still working on how to visalize the strongest variable to detect general health and how to categorize general health based on that variable. I think potentially using a regression model and then visualizing what that variable looks like would be useful. 
