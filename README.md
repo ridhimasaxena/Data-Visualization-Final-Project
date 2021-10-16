@@ -13,15 +13,13 @@ I’ve created a proof of concept visualization of this data. It's a scatterplot
 Another visualization is a scatterplot showing whether a person exercises or not (0 or 1) on the x-axis and what their weight is on the y-axis. 
 [![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/exerciseandweight.png)](https://vizhub.com/ridhimasaxena/b8bbdb49bb93485d97c8c1f011615c3a)
 
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
+
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
+ * (insert your question or task here) Which variable out of all the variables in the dataset is the strongest indicator of general health?
  * (insert your question or task here) Is there any correlation between X and Y?
  * (insert your question or task here) Are there interesting spatial patterns in X?
  * (insert your question or task here) How many X are there across different Y?
