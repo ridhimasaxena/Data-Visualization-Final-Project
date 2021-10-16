@@ -34,4 +34,4 @@ The sketches above show the distribution of the dataset and the classifications 
 
 ## Open Questions
 
-I am still working on how to visalize the strongest variable to detect general health and how to categorize general health based on that variable. I think potentially using a regression model and then visualizing what that variable looks like would be useful. 
+I am still working on how to visualize the strongest variable to detect general health and how to categorize general health based on that variable. I think potentially using a regression model and then visualizing what that variable looks like would be useful. 
