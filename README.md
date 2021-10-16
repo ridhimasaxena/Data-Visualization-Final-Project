@@ -11,7 +11,7 @@ I’ve created a proof of concept visualization of this data. It's a scatterplot
 [![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/agevsweight.png)](https://vizhub.com/ridhimasaxena/ce31146b95a5497d96ec57e0670ff732)
 
 Another visualization is a scatterplot showing whether a person exercises or not (0 or 1) on the x-axis and what their weight is on the y-axis. 
-[![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/exerciseandweight.png](https://vizhub.com/ridhimasaxena/b8bbdb49bb93485d97c8c1f011615c3a)
+[![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/exerciseandweight.png)](https://vizhub.com/ridhimasaxena/b8bbdb49bb93485d97c8c1f011615c3a)
 
 ```
 [![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
