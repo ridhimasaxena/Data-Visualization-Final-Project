@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is the cdc dataset that I have been analyzing for the past few weeks. I believe that there are interesting attributes in the dataset as well as many data points (10,000), which could lend to lots of potential for various visualizations.
+The data I propose to visualize for my project is the Center for Disease Control (CDC) dataset that I have been analyzing for the past few months. I believe that there are interesting attributes in the dataset as well as many data points (10,000), which could lend to lots of potential for various visualizations.
 
 ## Prototypes
 
@@ -13,13 +13,15 @@ I’ve created a proof of concept visualization of this data. It's a scatterplot
 Another visualization is a scatterplot showing whether a person exercises or not (0 or 1) on the x-axis and what their weight is on the y-axis. 
 [![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/exerciseandweight.png)](https://vizhub.com/ridhimasaxena/b8bbdb49bb93485d97c8c1f011615c3a)
 
-
+A scatterplot describing age vs. weight for males and females.
+[![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/agevsweight.png)](https://vizhub.com/ridhimasaxena/ce31146b95a5497d96ec57e0670ff732))
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * Which variable out of all the variables in the dataset is the strongest indicator of general health?
+ * What is a way for us to visualize body mass index?
  * What are the thresholds to categorize health as very good vs. excellent etc.?
  * How does the general health compare for males vs. females?
  * How does the smoking compare for males vs. females?
