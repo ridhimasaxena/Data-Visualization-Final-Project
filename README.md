@@ -14,7 +14,7 @@ Another visualization is a scatterplot showing whether a person exercises or not
 [![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/exerciseandweight.png)](https://vizhub.com/ridhimasaxena/b8bbdb49bb93485d97c8c1f011615c3a)
 
 A scatterplot describing age vs. weight for males and females.
-[![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/agevsweight.png)](https://vizhub.com/ridhimasaxena/ce31146b95a5497d96ec57e0670ff732))
+[![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/agevsweight.png)](https://vizhub.com/ridhimasaxena/1ed5e04673d1404e99489272bb952d0d)
 
 ## Questions & Tasks
 
