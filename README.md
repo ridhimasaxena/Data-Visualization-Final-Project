@@ -31,8 +31,6 @@ The following tasks and questions will drive the visualization and interaction d
  * How does the general health compare for males vs. females?
  * How does the smoking compare for males vs. females?
 
-![image](https://user-images.githubusercontent.com/66648957/142074285-45766b80-5fd8-404f-936c-3da83ceeea71.png)
-
 
 ## Sketches
 
@@ -51,4 +49,8 @@ I am still working on how to visualize the strongest variable to detect general 
 
 ## Schedule of Deliverables
 
-
+ * Which variable out of all the variables in the dataset is the strongest indicator of general health?
+ * How can we plot body mass index?
+ * Do we notice any differences in the attributes for people with different general health statuses?
+ * How does the general health compare for males vs. females?
+ * How does the smoking compare for males vs. females?
