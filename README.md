@@ -49,7 +49,7 @@ I am still working on how to visualize the strongest variable to detect general 
 ## Schedule of Deliverables
 
  * Create a regression model in R to understand the most significant variable (2 days, 11/17)
-              * Determine which visualization would be the most powerful for showcasing this variable (11/17) 
+              - Determine which visualization would be the most powerful for showcasing this variable (11/17) 
  * Create a violin plot (1 day, 11/18)
  * Create a ridge plot (1 day, 11/19)
  * Create a scatterplot of Body Mass Index (3 days, 11/22)
