@@ -19,26 +19,33 @@ Another visualization is a scatterplot showing whether a person exercises or not
 A scatterplot describing age vs. weight for males and females.
 [![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/AgeVsWeightMF.png)] 
 
-A scatterplot describing age vs. weight for males and females.
-[![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/AgeVsWeightMF.png)] 
+
+
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * Which variable out of all the variables in the dataset is the strongest indicator of general health?
- * What is a way for us to visualize body mass index?
- * What are the thresholds to categorize health as very good vs. excellent etc.?
+ * How can we plot body mass index?
+ * Do we notice any differences in the attributes for people with different general health statuses?
  * How does the general health compare for males vs. females?
  * How does the smoking compare for males vs. females?
+
+![image](https://user-images.githubusercontent.com/66648957/142074285-45766b80-5fd8-404f-936c-3da83ceeea71.png)
+
 
 ## Sketches
 
 [![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/Cdc_Sketch.png)]
 [![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/SmokingStatusGender.png)]
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/BMIByAge.png)] 
 
-The sketches above show the distribution of the dataset and the classifications of their general health status. The data is visualized in a pie chart. The next sketch compares general health between males and females in a bar chart. This satisfies the third question of how general health compares for males vs. females. Similarly the third sketch outlines smoking status between males and females. 
+The sketches above show the distribution of the dataset and the classifications of their general health status. The data is visualized in a pie chart. The next sketch compares general health between males and females in a bar chart. This satisfies the third question of how general health compares for males vs. females. Similarly the third sketch outlines smoking status between males and females. The last sketch outlines how to plot body mass index. 
 
 
 ## Open Questions
 
 I am still working on how to visualize the strongest variable to detect general health and how to categorize general health based on that variable. I think potentially using a regression model and then visualizing what that variable looks like would be useful. 
+
+##Schedule of Deliverables
+
