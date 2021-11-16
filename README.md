@@ -49,12 +49,12 @@ I am still working on how to visualize the strongest variable to detect general 
 ## Schedule of Deliverables
 
  * Create a regression model in R to understand the most significant variable (2 days, 11/17)
-       *   Determine which visualization would be the most powerful for showcasing this variable (11/17)
+                  *   Determine which visualization would be the most powerful for showcasing this variable (11/17)
  * Create a violin plot (1 day, 11/18)
  * Create a ridge plot (1 day, 11/19)
  * Create a scatterplot of Body Mass Index (3 days, 11/22)
-       * Add a drop down menu to look at BMI for different health statuses (1 day 11/21)
-       * Add a drop down menu to look at BMI for different genders (11/21)
+                  * Add a drop down menu to look at BMI for different health statuses (1 day 11/21)
+                  * Add a drop down menu to look at BMI for different genders (11/21)
  * Create a visualization to look at Body Mass Index for both Males and Females separated by color (1 day, 11/22)
  * Create a pie chart of the different health statuses (1 day, 11/23)
  * Plot general health for males vs females in a bar chart (1 day, 11/24)
