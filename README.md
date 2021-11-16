@@ -5,7 +5,6 @@
 The data I propose to visualize for my project is the Center for Disease Control (CDC) dataset that I have been analyzing for the past few months. I believe that there are interesting attributes in the dataset as well as many data points (10,000), which could lend to lots of potential for various visualizations.
 I am looking to create different types of histograms of the data through violin plots or ridge plots. One interesting aspect about the data that I’d like to explore includes the Body Mass Index (BMI) of the individuals in the dataset. I would like to create some interactive visualizations involving BMI where I can toggle between Male and Females as well as display the BMI for different general health statuses.
 
-![image](https://user-images.githubusercontent.com/66648957/142073360-b8eab351-46ba-488b-809d-d70ea8f5c88d.png)
 
 
 ## Prototypes
@@ -20,7 +19,8 @@ Another visualization is a scatterplot showing whether a person exercises or not
 A scatterplot describing age vs. weight for males and females.
 [![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/AgeVsWeightMF.png)] 
 
-
+A scatterplot describing age vs. weight for males and females.
+[![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/AgeVsWeightMF.png)] 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
