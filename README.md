@@ -18,6 +18,8 @@ Another visualization is a scatterplot showing whether a person exercises or not
 A scatterplot describing age vs. weight for males and females.
 [![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/AgeVsWeightMF.png)] 
 
+A scatterplot describing BMI vs. Age for males and females.
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/BMIvsAge.png)] 
 
 
 ## Questions & Tasks
@@ -25,7 +27,13 @@ A scatterplot describing age vs. weight for males and females.
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * Which variable out of all the variables in the dataset is the strongest indicator of general health?
+Through analyzing the data using a random forest as well as ordinal logistic regression, I can report that age is the strongest indicator of general health followed by weight. 
+
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/RandomForestResults.png)] 
+
  * How can we plot body mass index?
+Because age and weight are the two strongest indicators of general health, body mass index is appropriately plotted against age as seen in the above screenshot in the form of a scatterplot. This would also be interesting to see in a histogram. 
+
  * Do we notice any differences in the attributes for people with different general health statuses?
  * How does the general health compare for males vs. females?
  * How does the smoking compare for males vs. females?
@@ -44,15 +52,15 @@ The sketches above show the distribution of the dataset and the classifications 
 
 I am still working on how to visualize the strongest variable to detect general health and how to categorize general health based on that variable. I think potentially using a regression model and then visualizing what that variable looks like would be useful. 
 
-
+**I decided to use a random forest to determine this**
 
 ## Schedule of Deliverables
 
- * Create a regression model in R to understand the most significant variable (2 days, 11/17)
-   * Determine which visualization would be the most powerful for showcasing this variable (11/17) 
+ * ~~Create a regression model in R to understand the most significant variable (2 days, 11/17)
+   * ~~Determine which visualization would be the most powerful for showcasing this variable (11/17) 
  * Create a violin plot (1 day, 11/18)
  * Create a ridge plot (1 day, 11/19)
- * Create a scatterplot of Body Mass Index (3 days, 11/22)
+ * ~~Create a scatterplot of Body Mass Index (3 days, 11/22)
    * Add a drop down menu to look at BMI for different health statuses (1 day 11/21)
    * Add a drop down menu to look at BMI for different genders (11/21)
  * Create a visualization to look at Body Mass Index for both Males and Females separated by color (1 day, 11/22)
