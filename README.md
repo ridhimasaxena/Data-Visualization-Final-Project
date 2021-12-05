@@ -23,8 +23,8 @@ Exercise habits in the past 30 days (0 for no, 1 for yes) on the x-axis vs weigh
 Age (in years) vs. Weight (in lbs) for males and females.
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/AgeVsWeightMF.png)](https://vizhub.com/ridhimasaxena/1ed5e04673d1404e99489272bb952d0d?file=index.js)
 
-A scatterplot describing BMI vs. Age for males and females.
-[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/BMIvsAge.png)] 
+Age (in years) vs. BMI for males and females.
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/BMIvsAge.png)](https://vizhub.com/ridhimasaxena/23b7d479ee634e768b90dd3beb39784c?edit=files)
 
 An interactive scatterplot describing weight vs. general health status. This scatterplot is one where you are able to decide the axes from a drop down and watch the scatterplot animate. 
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/GenHealthWeight.png)] 
