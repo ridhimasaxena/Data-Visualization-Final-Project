@@ -21,8 +21,7 @@ Exercise habits in the past 30 days (0 for no, 1 for yes) on the x-axis vs weigh
 [![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/exerciseandweight.png)](https://vizhub.com/ridhimasaxena/b8bbdb49bb93485d97c8c1f011615c3a)
 
 Age (in years) vs. Weight (in lbs) for males and females.
-[![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/AgeVsWeightMF.png)] 
-(https://vizhub.com/ridhimasaxena/1ed5e04673d1404e99489272bb952d0d?file=index.js)
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/AgeVsWeightMF.png)](https://vizhub.com/ridhimasaxena/1ed5e04673d1404e99489272bb952d0d?file=index.js)
 
 A scatterplot describing BMI vs. Age for males and females.
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/BMIvsAge.png)] 
