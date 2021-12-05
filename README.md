@@ -6,9 +6,9 @@ The data I have decided to visualize comes from the Center for Disease Control (
 I have created various interactive histograms and scatterplots of the data that look at the most predictive variables of the data--namely age and weight --for the different general health statuses. An interesting way I have incorporated weight and height into the visualization is through calculating the Body Mass Index (BMI) of an  individual and plotting this for different ages. I have also created some interactive visualizations involving BMI where I can toggle between Male and Females as well as display the BMI for different general health statuses.
 Data Link: [CDC Dataset](https://gist.github.com/ridhimasaxena/a45f4774ff99a80bb5f71ca575f64ec3 "CDC Dataset")
 
-## Visualizations
+# Visualizations
 
-# Scatterplots
+## Scatterplots
 
 Below are scatterplots that I have created.  
 
