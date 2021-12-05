@@ -21,6 +21,9 @@ A scatterplot describing age vs. weight for males and females.
 A scatterplot describing BMI vs. Age for males and females.
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/BMIvsAge.png)] 
 
+An interactive scatterplot describing weight vs. general health status. This scatterplot is one where you are able to decide the axes from a drop down and watch the scatterplot animate. 
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/GenHealthWeight.png)] 
+
 
 ## Questions & Tasks
 
