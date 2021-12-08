@@ -29,7 +29,21 @@ Age (in years) vs. BMI for males and females.
 Interactively describing Weight (in lbs) vs. General Health status. This scatterplot is one where you are able to decide the axes from a drop down and watch the scatterplot animate. 
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/GenHealthWeight.png)](https://vizhub.com/ridhimasaxena/fae2b6a65fd347d8a2022765bb55afbe?edit=files)
 
+Weight/weight desire ratio against Age
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/WeightbyDesiredWeight.png)](https://vizhub.com/ridhimasaxena/3ab2a629c01a4a2eac6136f9f9c37e58?edit=files)
+
+
 ### Histograms
+
+Age (in years) vs. BMI for various age bands
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/Hist_BMI_Age.png)](https://vizhub.com/ridhimasaxena/b6cfe11d312d40e08da9d2568cc78406)
+
+Age (in years) vs. BMI for various age bands using brushing
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/Hist_Brushing.png)](https://vizhub.com/ridhimasaxena/bced0f0db29a47c394c792bd01185bc0)
+
+
+### Bar Charts
+
 
 
 ## Questions & Tasks
@@ -68,20 +82,17 @@ I am still working on how to visualize the strongest variable to detect general 
 
  * ~~Create a regression model in R to understand the most significant variable (2 days, 11/17)~~
    * ~~Determine which visualization would be the most powerful for showcasing this variable (11/17)~~
- * Create a violin plot (1 day, 11/18)
- * Create a ridge plot (1 day, 11/19)
  * ~~Create a scatterplot of Body Mass Index (3 days, 11/22)~~
    * Add a drop down menu to look at BMI for different health statuses (1 day 11/21)
    * Add a drop down menu to look at BMI for different genders (11/21)
- * Create a visualization to look at Body Mass Index for both Males and Females separated by color (1 day, 11/22)
  * Create a pie chart of the different health statuses (1 day, 11/23)
  * Plot general health for males vs females in a bar chart (1 day, 11/24)
  * Plot smoking status for males vs females in a bar chart (1 day, 11/24)
  * Plot smoking for different health statuses (2 days, 11/26)
  * Plot exercise for different health statuses (2 days, 11/26)
  * Plot weight for different health statuses (2 days, 11/26)
- * Divide weight/weight_desire and plot this metric for different health statuses (2 days, 11/28)
- * Decide which visualizations are the most interesting and meaningful (2 days, 11/30)
+ * ~~Divide weight/weight_desire and plot this metric for different ages (2 days, 11/28)~~
+ * ~~Decide which visualizations are the most interesting and meaningful (2 days, 11/30)~~
  * Refine all visualizations for submission (2 days, 12/2)
  * Buffer Period in case I am behind schedule (6 days, 12/8)
  * Create a template of the final project submission (7 days, 12/9)
