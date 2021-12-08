@@ -55,6 +55,11 @@ General Health vs Weight
 
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/GenlHealthvsWeight.png)](https://vizhub.com/ridhimasaxena/165aa99452b747878e817154ac9ff525?edit=files&file=index.js)
 
+Smoking Status vs Age
+
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/SmokingStatusAge.png)](https://vizhub.com/ridhimasaxena/165aa99452b747878e817154ac9ff525?edit=files&file=index.js)
+
+
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
