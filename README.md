@@ -18,27 +18,34 @@ Age (in years) on the x-axis vs Weight (in lbs) on the y-axis
 
 
 Exercise habits in the past 30 days (0 for no, 1 for yes) on the x-axis vs weight (in lbs) on the y-axis
+
 [![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/exerciseandweight.png)](https://vizhub.com/ridhimasaxena/b8bbdb49bb93485d97c8c1f011615c3a)
 
 Age (in years) vs. Weight (in lbs) for males and females.
+
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/AgeVsWeightMF.png)](https://vizhub.com/ridhimasaxena/1ed5e04673d1404e99489272bb952d0d?file=index.js)
 
 Age (in years) vs. BMI for males and females.
+
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/BMIvsAge_Updated.png)](https://vizhub.com/ridhimasaxena/23b7d479ee634e768b90dd3beb39784c?edit=files)
 
 Interactively describing Weight (in lbs) vs. General Health status. This scatterplot is one where you are able to decide the axes from a drop down and watch the scatterplot animate. 
+
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/GenHealthWeight.png)](https://vizhub.com/ridhimasaxena/fae2b6a65fd347d8a2022765bb55afbe?edit=files)
 
 Weight/weight desire ratio against Age
+
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/WeightbyDesiredWeight.png)](https://vizhub.com/ridhimasaxena/3ab2a629c01a4a2eac6136f9f9c37e58?edit=files)
 
 
 ### Histograms
 
 Age (in years) vs. BMI for various age bands
+
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/Hist_BMI_Age.png)](https://vizhub.com/ridhimasaxena/b6cfe11d312d40e08da9d2568cc78406)
 
 Age (in years) vs. BMI for various age bands using brushing
+
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/Hist_Brushing.png)](https://vizhub.com/ridhimasaxena/bced0f0db29a47c394c792bd01185bc0)
 
 
