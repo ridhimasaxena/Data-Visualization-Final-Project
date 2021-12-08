@@ -51,7 +51,9 @@ Age (in years) vs. BMI for various age bands using brushing
 
 ### Bar Charts
 
+General Health vs Weight
 
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/GenlHealthvsWeight.png)](https://vizhub.com/ridhimasaxena/165aa99452b747878e817154ac9ff525?edit=files&file=index.js)
 
 ## Questions & Tasks
 
@@ -93,7 +95,7 @@ I am still working on how to visualize the strongest variable to detect general 
    * Add a drop down menu to look at BMI for different health statuses (1 day 11/21)
    * Add a drop down menu to look at BMI for different genders (11/21)
  * Create a pie chart of the different health statuses (1 day, 11/23)
- * Plot general health for males vs females in a bar chart (1 day, 11/24)
+ * Plot weight for different health statuses (1 day, 11/24)
  * Plot smoking status for males vs females in a bar chart (1 day, 11/24)
  * Plot smoking for different health statuses (2 days, 11/26)
  * Plot exercise for different health statuses (2 days, 11/26)
