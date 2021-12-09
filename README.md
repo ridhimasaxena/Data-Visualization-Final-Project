@@ -6,6 +6,8 @@ The data I have decided to visualize comes from the Center for Disease Control [
 , consisting of a random sample of 10,000 data points describing the general health of an individual.  The data consists of a mix of numerical (weight and height), categorical (gender), and ordinal (health status) data. 
 I have created various scatterplots, histograms, and bar charts of the data that look at the most predictive variables of the data--namely age and weight --for the different general health statuses. An interesting way I have incorporated weight and height into the visualization is through calculating the Body Mass Index (BMI) of an  individual and plotting this for different ages. I have also created some interactive visualizations involving BMI where I can toggle between Male and Females as well as display the BMI for different general health statuses. Lastly, the weight/weight desire ratio provides an insight on the individuals' goals or motivations for reaching a certain weight based on their target demographic. 
  
+Final Project Video
+
 ## Visualizations
 
 ### Scatterplots
@@ -112,8 +114,8 @@ Histogram Includes:
  * ~~Create a regression model in R to understand the most significant variable (2 days, 11/17)~~
    * ~~Determine which visualization would be the most powerful for showcasing this variable (11/17)~~
  * ~~Create a scatterplot of Body Mass Index (3 days, 11/22)~~
-   * Add a drop down menu to look at BMI for different health statuses (1 day 11/21)
-   * Add a drop down menu to look at BMI for different genders (11/21)
+   * ~~Add a drop down menu to look at BMI for different health statuses (1 day 11/21)~~
+   * ~~Add a drop down menu to look at BMI for different genders (11/21)~~
  * ~~Plot weight for different health statuses (1 day, 11/24)~~
  * ~~Plot weight for different health statuses (2 days, 11/26)~~
  * ~~Divide weight/weight_desire and plot this metric for different ages (2 days, 11/28)~~
@@ -121,7 +123,7 @@ Histogram Includes:
  * ~~Refine all visualizations for submission (2 days, 12/2)~~
  * ~~Buffer Period in case I am behind schedule (6 days, 12/8)~~
  * ~~Create a template of the final project submission (7 days, 12/9)~~
- * Submit Final Project (12/9)
+ * ~~Submit Final Project (12/9)~~
  
 
 ## Future Exploration
