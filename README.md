@@ -6,7 +6,7 @@ The data I have decided to visualize comes from the Center for Disease Control [
 , consisting of a random sample of 10,000 data points describing the general health of an individual.  The data consists of a mix of numerical (weight and height), categorical (gender), and ordinal (health status) data. 
 I have created various scatterplots, histograms, and bar charts of the data that look at the most predictive variables of the data--namely age and weight --for the different general health statuses. An interesting way I have incorporated weight and height into the visualization is through calculating the Body Mass Index (BMI) of an  individual and plotting this for different ages. I have also created some interactive visualizations involving BMI where I can toggle between Male and Females as well as display the BMI for different general health statuses. Lastly, the weight/weight desire ratio provides an insight on the individuals' goals or motivations for reaching a certain weight based on their target demographic. 
  
-Final Project Video
+[Final Project Video](https://www.youtube.com/watch?v=WHbK0SMfj2E "Final Project Video")
 
 ## Visualizations
 
