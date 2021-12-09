@@ -66,7 +66,7 @@ Third Iteration: Age (in years) vs. BMI for various age bands while interactivel
 
 Second Iteration: Health Status vs Weight
 
-[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/GenlHealthvsWeight.png)](https://vizhub.com/ridhimasaxena/165aa99452b747878e817154ac9ff525?edit=files&file=index.js)
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/GenlHealthvsWeight.png)](https://vizhub.com/ridhimasaxena/098f7f507df247bc9a1d1aa2b1da6ec2)
 
 ## Questions & Tasks
 
