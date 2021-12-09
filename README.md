@@ -34,7 +34,7 @@ Second Iteration: Interactively describing Weight (in lbs) vs. General Health st
 
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/GenHealthWeight.png)](https://vizhub.com/ridhimasaxena/fae2b6a65fd347d8a2022765bb55afbe?edit=files)
 
-Thirs Iteration: Weight/weight desire ratio against Age
+Third Iteration: Weight/weight desire ratio against Age
 
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/WeightbyDesiredWeight.png)](https://vizhub.com/ridhimasaxena/3ab2a629c01a4a2eac6136f9f9c37e58?edit=files)
 
@@ -89,6 +89,16 @@ This initial sketch drawn when just starting to think about what the data looks 
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/BMIByAge.png)] 
 
 This sketch was a direct inspiration for my scatterplots surrounding Body Mass Index. I created BMI by using the following formula: weight (lbs) /height (in) /height (in) * 703. My final prototype took this a step further by separating BMI by males vs females as well as by general health status. 
+
+
+## Interactions
+
+Scatterplot Includes:
+ * Drop down menu to adjust the x and y axes
+
+Histogram Includes:
+* Drop down menu to look at the different chart between males and females
+* Drop down menu to look at the different chart for various health statuses
 
 ## Schedule of Deliverables
 
