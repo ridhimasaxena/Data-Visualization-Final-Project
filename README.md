@@ -113,11 +113,12 @@ Histogram Includes:
 
  * ~~Create a regression model in R to understand the most significant variable (2 days, 11/17)~~
    * ~~Determine which visualization would be the most powerful for showcasing this variable (11/17)~~
- * ~~Create a scatterplot of Body Mass Index (3 days, 11/22)~~
+ * ~~Create a Histogram of Body Mass Index (3 days, 11/22)~~
    * ~~Add a drop down menu to look at BMI for different health statuses (1 day 11/21)~~
    * ~~Add a drop down menu to look at BMI for different genders (11/21)~~
- * ~~Plot weight for different health statuses (1 day, 11/24)~~
- * ~~Plot weight for different health statuses (2 days, 11/26)~~
+ * ~~Create a Scatterplot of Body Mass Index~~
+   * ~~Plot BMI for different genders (1 day, 11/24)~~
+   * ~~Plot BMI for different health statuses (2 days, 11/26)~~
  * ~~Divide weight/weight_desire and plot this metric for different ages (2 days, 11/28)~~
  * ~~Decide which visualizations are the most interesting and meaningful (2 days, 11/30)~~
  * ~~Refine all visualizations for submission (2 days, 12/2)~~
