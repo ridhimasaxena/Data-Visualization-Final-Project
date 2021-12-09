@@ -3,7 +3,7 @@
 ## Data
 
 The data I have decided to visualize comes from the Center for Disease Control (CDC) dataset, consisting of a random sample of 10,000 data points describing the general healht of an individual.  
-I have created various interactive histograms and scatterplots of the data that look at the most predictive variables of the data--namely age and weight --for the different general health statuses. An interesting way I have incorporated weight and height into the visualization is through calculating the Body Mass Index (BMI) of an  individual and plotting this for different ages. I have also created some interactive visualizations involving BMI where I can toggle between Male and Females as well as display the BMI for different general health statuses.
+I have created various interactive scatterplots, histograms, and bar charts of the data that look at the most predictive variables of the data--namely age and weight --for the different general health statuses. An interesting way I have incorporated weight and height into the visualization is through calculating the Body Mass Index (BMI) of an  individual and plotting this for different ages. I have also created some interactive visualizations involving BMI where I can toggle between Male and Females as well as display the BMI for different general health statuses. Lastly, the weight/weight desire ratio provides an insight on the individuals' goals or motivations for reaching a certain weight based on their target demographic. 
 Data Link: [CDC Dataset](https://gist.github.com/ridhimasaxena/a45f4774ff99a80bb5f71ca575f64ec3 "CDC Dataset")
 
 ## Visualizations
@@ -37,6 +37,9 @@ Weight/weight desire ratio against Age
 
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/WeightbyDesiredWeight.png)](https://vizhub.com/ridhimasaxena/3ab2a629c01a4a2eac6136f9f9c37e58?edit=files)
 
+Age (in years) vs. BMI for Different Health Statuses.
+
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Final-Project/blob/master/BMI_HealthStatus.png)](https://vizhub.com/ridhimasaxena/2b07073be0b34036bbde1a5d063934c8?edit=files&file=index.js)
 
 ### Histograms
 
@@ -55,42 +58,34 @@ General Health vs Weight
 
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/GenlHealthvsWeight.png)](https://vizhub.com/ridhimasaxena/165aa99452b747878e817154ac9ff525?edit=files&file=index.js)
 
-Smoking Status vs Age
-
-[![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/SmokingStatusAge.png)](https://vizhub.com/ridhimasaxena/165aa99452b747878e817154ac9ff525?edit=files&file=index.js)
-
-
 ## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
+The following tasks and questions have driven the visualization and interaction decisions for this project:
 
  * Which variable out of all the variables in the dataset is the strongest indicator of general health?
+
+
 Through analyzing the data using a random forest as well as ordinal logistic regression, I can report that age is the strongest indicator of general health followed by weight. 
 
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/RandomForestResults.png)] 
 
  * How can we plot body mass index?
-Because age and weight are the two strongest indicators of general health, body mass index is appropriately plotted against age as seen in the above screenshot in the form of a scatterplot. This would also be interesting to see in a histogram. 
+
+
+Because age and weight are the two strongest indicators of general health, body mass index is appropriately plotted against age as seen in the above screenshot in the form of a scatterplot. This is also interesting to visualize in a histogram. 
 
  * Do we notice any differences in the attributes for people with different general health statuses?
- * How does the general health compare for males vs. females?
- * How does the smoking compare for males vs. females?
+
+Yes, we notice that  people in the "fair" health status category tend to be the individuals with the highest weight and subsequent BMI. This is interesting because we would hypothesize that "poor" health would have the highest BMI. We also notice that there isn't too much of a pattern for the age of people in every health status. There are many individuals of all ages in every category of health. However, we do notice that there are very few people in the "excellent" health status who are over age 75 and very few people in the "very good" status who are over age 80. This may also be because there are less individuals above those ages in the dataset itself. Similarly, exercise vs no exercise as well as smoking status did not have much of an impact on weight or health status. 
 
 
 ## Sketches
 
 [![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/Cdc_Sketch.png)]
-[![image](https://github.com/ridhimasaxena/dataviz-project-template-proposal/blob/master/SmokingStatusGender.png)]
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/BMIByAge.png)] 
 
 The sketches above show the distribution of the dataset and the classifications of their general health status. The data is visualized in a pie chart. The next sketch compares general health between males and females in a bar chart. This satisfies the third question of how general health compares for males vs. females. Similarly the third sketch outlines smoking status between males and females. The last sketch outlines how to plot Body Mass Index. 
 
-
-## Open Questions
-
-I am still working on how to visualize the strongest variable to detect general health and how to categorize general health based on that variable. I think potentially using a regression model and then visualizing what that variable looks like would be useful. 
-
-**I decided to use a random forest to determine this**
 
 ## Schedule of Deliverables
 
@@ -112,3 +107,5 @@ I am still working on how to visualize the strongest variable to detect general 
  * Create a template of the final project submission (7 days, 12/9)
  * Submit Final Project (12/9)
  
+
+## Future Exploration
