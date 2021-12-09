@@ -52,6 +52,13 @@ Second Iteration: Age (in years) vs. BMI for various age bands using brushing
 
 [![image](https://github.com/ridhimasaxena/Data-Visualization-Project-Proposal/blob/master/Hist_Brushing.png)](https://vizhub.com/ridhimasaxena/bced0f0db29a47c394c792bd01185bc0)
 
+Third Iteration: Age (in years) vs. BMI for various age bands while interactively toggling between males and females
+
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Final-Project/blob/master/hist_BMI_MF.png)](https://vizhub.com/ridhimasaxena/f3cb79ebdc73422c941891e395a8ccde?edit=files&file=index.html)
+
+Third Iteration: Age (in years) vs. BMI for various age bands while interactively toggling between different health statuses
+
+[![image](https://github.com/ridhimasaxena/Data-Visualization-Final-Project/blob/master/BMI_HlthStatus.png)](https://vizhub.com/ridhimasaxena/18a10392e606456eb70d6a55c910d08f?edit=files&file=styles.css)
 
 ### Bar Charts
 
